@@ -1,4 +1,32 @@
-## Hi there 👋
+👋 Hello! I'm a Web Developer
+# 👋 Hello! I'm a Web Developer
+
+🚀 Passionate about building web applications and learning new technologies.
+
+## 🛠 Tech Stack
+
+- **Languages & Frameworks:** JavaScript, React, Go, SQL
+- **Version Control:** Git
+
+## 🌟 My Best Pet Projects
+
+- 🔥 **[Magma](https://github.com/adattoweb/magma)** – A time tracker to boost productivity.
+- ❌⭕ **[Tic-Tac-Toe](https://github.com/adattoweb/tic-tac-toe)** – A simple yet fun tic-tac-toe game.
+- 📖 **[Poemix](https://github.com/adattoweb/poemix)** – A website for learning and exploring poetry.
+- 🎨 **[React Projects 15](https://github.com/adattoweb/react-projects-15)** – A collection of 15 amazing React pet projects.
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adattoweb&show_icons=true&theme=dark)
+
+## 🤝 Contact Me
+
+- 💬 **Discord:** `adattoweb`
+- ✈️ **Telegram:** [@adattoweb](https://t.me/adattoweb)
+
+## 📚 Currently Learning
+
+Exploring the Frontend Development field!
 
 <!--
 **adattoweb/adattoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
