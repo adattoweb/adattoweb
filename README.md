@@ -30,6 +30,6 @@
 - ✈️ **Telegram:** [@adattoweb](https://t.me/adattoweb)
 
 ## 🏗️ Currently Developing
-**[Magma](https://github.com/adattoweb/magma)**
-Learnins JS, REACT, TS
-Something else...
+**[Magma](https://github.com/adattoweb/magma)**   
+Learnins JS, REACT, TS   
+Something else...   
