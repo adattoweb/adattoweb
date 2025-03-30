@@ -18,6 +18,9 @@
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adattoweb&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adattoweb&layout=compact&theme=dark)
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adattoweb&theme=dark)
+
 
 ## 🤝 Contact Me
 
