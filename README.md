@@ -27,9 +27,9 @@
 - 💬 **Discord:** `adattoweb`
 - ✈️ **Telegram:** [@adattoweb](https://t.me/adattoweb)
 
-## 📚 Currently Learning
-
-Exploring the Frontend Development field!
+## 🏗️ Currently Developing
+**[Magma](https://github.com/adattoweb/magma)**
+Something else...
 
 <!--
 **adattoweb/adattoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
