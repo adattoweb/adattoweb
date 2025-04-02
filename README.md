@@ -12,7 +12,7 @@
 
 - 🔥 **[Magma](https://github.com/adattoweb/magma)** – A time tracker to boost productivity.
 - ❌⭕ **[Tic-Tac-Toe](https://github.com/adattoweb/tic-tac-toe)** – A simple yet fun tic-tac-toe game.
-- 📖 **[Poemix](https://github.com/adattoweb/poemix)** – A website for learning and exploring poetry.
+- 📖 **[Poemix](https://github.com/adattoweb/poemix)** – A website for learning poems.
 - 🎨 **[React Projects 15](https://github.com/adattoweb/react-projects-15)** – A collection of 15 amazing React pet projects.
 
 ## 📊 GitHub Stats
